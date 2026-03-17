@@ -1,5 +1,6 @@
 ---
 order: 1
-title: ТЕСТ АВТООБНОВЛЕНИЯ
+title: 1. Принцип работы
 ---
 
+[view:hierarchy=none::::List]
