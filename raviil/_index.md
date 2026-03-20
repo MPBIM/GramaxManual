@@ -15,7 +15,7 @@ title: РАВИИЛЬ!
 
 Конь в пальто!
 
-![](./raviil.png){width=1200px height=630px}
+![](./_index.png){width=1200px height=630px}
 
 -  РАз
 
@@ -33,15 +33,23 @@ if(ADSK_Группа конструкций = 1, round(roundup(ADSK_Размер
 
 ---
 
-*  ![](./raviil-2.png){width=592px height=317px}
+*  ![](./_index-2.png){width=592px height=317px}
 
 *  Копыта
+
+*  \#\_МП\_МКД\_СТСУПР7\_АР\_R23
+
+---
+
+*  
+
+*  [highlight:lemon-yellow]Подковы[/highlight]
 
 *  
 
 ---
 
-*  ![](./raviil-3.png){width=148px height=148px}
+*  ![](./_index-3.png){width=148px height=148px}
 
 *  Хвост
 
@@ -49,7 +57,7 @@ if(ADSK_Группа конструкций = 1, round(roundup(ADSK_Размер
 
 ---
 
-*  ![](./raviil-4.png){width=230px height=219px}
+*  ![](./_index-4.png){width=230px height=219px}
 
 *  Рог коня
 
