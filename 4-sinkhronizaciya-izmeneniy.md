@@ -1,6 +1,6 @@
 ---
 order: 4
-title: 4. Синхронизация изменений
+title: 4. Отображение
 ---
 
 rfr gjkexbmn bpvtytybz c gjhnfkf
